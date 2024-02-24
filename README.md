@@ -1,0 +1,1 @@
+This repository will have all the basic related to python.
